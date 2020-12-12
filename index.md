@@ -45,6 +45,8 @@ In the assignment 7, I created a sankey newwork plot to show the top 10 Migratio
 ## Project
 The project aims to explore the relationship between the COVID-19 and the US airline traffic
 
+(If you cannot see the WordCloud plot, please refresh your webpage！）
+
 [project](projectxyz.html)
 
 The main components:
