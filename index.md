@@ -33,6 +33,7 @@ The tasks includes
 ## Assignment 6 
 This assignment is the Geospatial Visualization Assignment.
 I visualized historical US election data and unemployment rates across US counties using choropleths in this assignment.
+
 [Assignment6](geospatial.html)
 
 ## Assignment 7
