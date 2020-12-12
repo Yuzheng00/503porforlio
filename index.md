@@ -29,6 +29,8 @@ The tasks includes
 
 [task5](pic/A5-5.png)
 
+The plot shows that the number of account having credit card is less than the credit card transactions. So there is something wrong with the data and the data is not validity.
+
 
 ## Assignment 6 
 This assignment is the Geospatial Visualization Assignment.
