@@ -1,6 +1,6 @@
-## Welcome to YUZHENG XIE’s wensite
+## Welcome to YUZHENG XIE’s website
 
-This is Yuzheng Xie and welcome to my website for ANLY 503.
+This is Yuzheng Xie and welcome to my website for ANLY 503. This website includes all my homeworks and project.
 
 
 ## Assigment 5
